@@ -5,3 +5,4 @@ public class Multiply {
         int b=3;
         System.out.println("sum"+(a+b));
 }
+}
